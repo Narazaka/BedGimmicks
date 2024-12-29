@@ -1,6 +1,8 @@
 # Bed Gimmicks
 
-desc
+VRChatの睡眠用ベッドギミック群
+
+ベッド四方の鏡とナイトモードなど。
 
 ## Install
 
