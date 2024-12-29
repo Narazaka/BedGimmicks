@@ -4,6 +4,10 @@ desc
 
 ## Install
 
+### VCC用インストーラーunitypackageによる方法
+
+1. https://github.com/Narazaka/BedGimmicks/releases/latest から `net.narazaka.vrchat.bed-gimmicks-installer.zip` をダウンロードして解凍し、対象のプロジェクトにインポートする。
+
 ### VCCによる方法
 
 0. https://vpm.mimylab.com/  から「Add to VCC」ボタンを押してリポジトリをVCCにインストールします。
