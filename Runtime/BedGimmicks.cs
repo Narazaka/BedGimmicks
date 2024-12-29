@@ -7,7 +7,6 @@ using System;
 using UnityEngine;
 using UnityEngine.UI;
 using VRC.SDKBase;
-using YamlDotNet.Core.Tokens;
 
 namespace Narazaka.VRChat.BedGimmicks
 {
