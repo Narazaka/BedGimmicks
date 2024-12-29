@@ -1,0 +1,24 @@
+{
+    "name": "Narazaka.VRChat.BedGimmicks.Runtime",
+    "rootNamespace": "",
+    "references": [
+        "UdonSharp.Runtime",
+        "Narazaka.VRChat.BedGimmicks.Udon",
+        "FukuroUdon"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": false,
+    "defineConstraints": [],
+    "versionDefines": [
+        {
+            "name": "com.mimylab.fukuroudon",
+            "expression": "[1,2)",
+            "define": "FUKUROUDON_V1"
+        }
+    ],
+    "noEngineReferences": false
+}

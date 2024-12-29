@@ -1,0 +1,27 @@
+{
+    "name": "Narazaka.VRChat.BedGimmicks.Udon",
+    "rootNamespace": "",
+    "references": [
+        "VRC.SDKBase",
+        "VRC.Udon",
+        "VRC.Udon.Serialization.OdinSerializer",
+        "UdonSharp.Runtime",
+        "FukuroUdon",
+        "Unity.Postprocessing.Runtime"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": false,
+    "defineConstraints": [],
+    "versionDefines": [
+        {
+            "name": "com.mimylab.fukuroudon",
+            "expression": "[1,2)",
+            "define": "FUKUROUDON_V1"
+        }
+    ],
+    "noEngineReferences": false
+}

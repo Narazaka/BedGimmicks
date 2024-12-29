@@ -1,0 +1,25 @@
+{
+    "name": "Narazaka.VRChat.BedGimmicks.Editor",
+    "rootNamespace": "",
+    "references": [
+        "VRC.SDKBase",
+        "VRC.Udon",
+        "VRC.Udon.Serialization.OdinSerializer",
+        "UdonSharp.Runtime",
+        "UdonSharp.Editor",
+        "Narazaka.VRChat.BedGimmicks.Runtime",
+        "Narazaka.VRChat.BedGimmicks.Udon",
+        "FukuroUdon"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": false,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
