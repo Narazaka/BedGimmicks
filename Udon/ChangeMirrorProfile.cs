@@ -16,7 +16,7 @@ namespace Narazaka.VRChat.BedGimmicks
         {
             foreach (var mirrorTuner in MirrorTuners)
             {
-                mirrorTuner.SendCustomEvent($"SetProfile{ProfileIndex}");
+                if (mirrorTuner != null) mirrorTuner.SendCustomEvent($"SetProfile{ProfileIndex}");
             }
         }
     }
