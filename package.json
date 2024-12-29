@@ -12,6 +12,9 @@
   "url" : "https://github.com/Narazaka/BedGimmicks.git",
   "unity": "2022.3",
   "vpmDependencies": {
-    "com.vrchat.worlds": ">=3.7.4"
+    "com.vrchat.worlds": ">=3 <4",
+    "com.mimylab.fukuroudon": ">=1.8.0 <4",
+    "net.narazaka.vrchat.ui-relay": ">=0.2.0",
+    "net.narazaka.vrchat.tmp-fallback-fonts-jp": ">=1.0.1"
   }
 }
