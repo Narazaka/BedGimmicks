@@ -3554,11 +3554,6 @@ PrefabInstance:
       propertyPath: m_IsActive
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 2735602541890609257, guid: 4356b1b90b316db44b817e29ed633077,
-        type: 3}
-      propertyPath: m_ReflectLayers.m_Bits
-      value: 1452801
-      objectReference: {fileID: 0}
     - target: {fileID: 3776874544456069246, guid: 4356b1b90b316db44b817e29ed633077,
         type: 3}
       propertyPath: m_LocalScale.x
