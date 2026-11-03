@@ -2,7 +2,6 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEditor;
-using YamlDotNet.Core.Tokens;
 using System;
 
 namespace Narazaka.VRChat.BedGimmicks.Editor
